@@ -7,8 +7,9 @@
 </p>
 
 ![Profile views]
+<div>
 (https://komarev.com/ghpvc/?username=ShahzadSyed&color=blue)
-
+</div>
 
 
 
