@@ -5,6 +5,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality;Building+Modern+Web+Apps;Always+Learning+%26+Growing" alt="Typing SVG" />
   </a>
 </p>
+
+![Profile views]
+(https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+
+
+
 ---
 ### 🛠️ Tech Stack
 <div class="tech-icons">
