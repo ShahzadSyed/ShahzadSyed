@@ -6,10 +6,12 @@
   </a>
 </p>
 
-![Profile views]
-<div>
-(https://komarev.com/ghpvc/?username=ShahzadSyed&color=blue)
-</div>
+# Hi, I'm Shahzad 👋
+
+![Profile views](https://komarev.com/ghpvc/?username=ShahzadSyed&label=Profile%20views&color=0e75b6&style=flat)
+
+Welcome to my GitHub profile! I’m a developer passionate about building cool stuff.
+
 
 
 
