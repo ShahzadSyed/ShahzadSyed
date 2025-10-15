@@ -10,7 +10,16 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ShahzadSyed&label=Profile%20views&color=0e75b6&style=flat)
 
-Welcome to my GitHub profile! I’m a Software Engineer passionate about building cool stuff.
+I’m a passionate .NET Desktop Developer dedicated to building clean, scalable, and user-friendly ERP systems. With hands-on expertise in C# .NET, WinForms, SQL Server, Telerik UI for WinForms, and Crystal Reports, I specialize in designing efficient desktop applications that streamline business operations and deliver a smooth user experience.
+
+I have worked on ERP modules that integrate SQL-based data management, reporting with Crystal Reports, and modern UI design with Telerik controls, ensuring both functionality and usability. My focus is on writing clean, maintainable code while following best practices in software architecture and database optimization to build reliable and performance-driven solutions.
+
+My skill set extends to database structuring, stored procedures, triggers, and reporting systems, as well as crafting intuitive desktop UIs that make complex workflows simple. I thrive on solving real-world business challenges, optimizing performance, and continuously learning to improve my development approach.
+
+💻 Tech Stack: C# .NET, WinForms, Telerik UI for WinForms, SQL Server, Crystal Reports, Stored Procedures, Triggers, ADO.NET, LINQ
+What Drives Me: Turning business needs into scalable ERP solutions with strong back-end logic, polished reporting, and user-friendly interfaces.
+
+Let’s connect if you’re working on ERP, desktop solutions, or want to collaborate on impactful software projects! 🚀💡
 
 
 
