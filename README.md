@@ -14,8 +14,8 @@ I build desktop and web-based software that helps businesses manage operations m
 - **Other Skills:** REST APIs, Reporting, Data Management  
 
 ### 📫 Connect with me
-- LinkedIn: [linkedin.com/in/syedshahzad13](https://linkedin.com/in/syedshahzad13)
-- Email: *(optional – you can add one if you want recruiters to reach you)*
+- LinkedIn:  [Connect](https://linkedin.com/in/syedshahzad13)
+
 
 Thanks for stopping by! Feel free to explore my repositories — I’m always open to collaboration and feedback.
 
