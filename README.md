@@ -1,10 +1,24 @@
 
 
 # 👋 Hi, I'm Syed Shahzad  
-I'm a Software Engineer specialized in **C#, .NET, SQL Server, WinForms, Telerik UI, and Crystal Reports**.  
-I love building efficient desktop and web applications that make business operations smoother.
+**Software Engineer | C# .NET | SQL Server | WinForms | Telerik | Crystal Reports | JavaScript**
 
-📫 Connect with me: [LinkedIn](https://linkedin.com/in/syedshahzad13)
+Welcome to my GitHub!  
+I build desktop and web-based software that helps businesses manage operations more efficiently. My main focus is on **.NET development** using **WinForms** and **SQL Server**, with a touch of modern UI and reporting tools.
+
+### 🧠 Tech Stack
+- **Languages:** C#, JavaScript, SQL  
+- **Frameworks:** .NET, .NET Core  
+- **Database:** Microsoft SQL Server  
+- **UI Tools:** Telerik UI for WinForms, Crystal Reports  
+- **Other Skills:** REST APIs, Reporting, Data Management  
+
+### 📫 Connect with me
+- LinkedIn: [linkedin.com/in/syedshahzad13](https://linkedin.com/in/syedshahzad13)
+- Email: *(optional – you can add one if you want recruiters to reach you)*
+
+Thanks for stopping by! Feel free to explore my repositories — I’m always open to collaboration and feedback.
+
 
 
 
