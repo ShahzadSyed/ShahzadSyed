@@ -1,7 +1,4 @@
---<h1 align="center">Hi 👋, I'm Syed Shahzad</h1>
-<h3 align="center">Software Engineer from Pakistan</h3>
-<p align="center">
-  <a href="https://github.com/ShahzadSyed">
+
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality;Building+Modern+Web+Apps;Always+Learning+%26+Growing" alt="Typing SVG" />
   </a>
 </p>
