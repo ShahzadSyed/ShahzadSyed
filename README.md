@@ -1,11 +1,4 @@
 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality;Building+Modern+Web+Apps;Always+Learning+%26+Growing" alt="Typing SVG" />
-  </a>
-</p>
-
-#
-
-![Profile views](https://komarev.com/ghpvc/?username=ShahzadSyed&label=Profile%20views&color=0e75b6&style=flat)
 
 # 👋 Hi, I'm Syed Shahzad  
 I'm a Software Engineer specialized in **C#, .NET, SQL Server, WinForms, Telerik UI, and Crystal Reports**.  
@@ -15,7 +8,7 @@ I love building efficient desktop and web applications that make business operat
 
 
 
-
+![Profile views](https://komarev.com/ghpvc/?username=ShahzadSyed&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ---
