@@ -3,8 +3,28 @@
 # 👋 Hi, I'm Syed Shahzad  
 **Software Engineer | C# .NET | SQL Server | WinForms | Telerik | Crystal Reports | JavaScript**
 
-Welcome to my GitHub!  
-I build desktop and web-based software that helps businesses manage operations more efficiently. My main focus is on **.NET development** using **WinForms** and **SQL Server**, with a touch of modern UI and reporting tools.
+I’m a Junior .NET Developer from Karachi. I work with C#, WinForms, SQL Server and Crystal Reports. I build practical systems for everyday business needs, including POS systems and ERP modules.
+
+**My Skills**
+C# / .NET
+WinForms (Telerik UI)
+SQL Server & Stored Procedures
+Crystal Reports
+JavaScript, HTML, CSS
+
+**My Projects**
+**Bakery POS** – Billing, stock, expenses and sales reports
+**Payroll System** – Employee management and salary reports
+**ERP Modules** – Yarn module, gatepass, sales contracts
+
+**What I’m Learning**
+.NET Core
+APIs
+Node.js
+Next.js
+MongoDB
+
+Feel free to check my repos or reach out if you’d like to collaborate.
 
 ### 🧠 Tech Stack
 - **Languages:** C#, JavaScript, SQL  
@@ -40,20 +60,20 @@ Thanks for stopping by! Feel free to explore my repositories — I’m always op
 
 
 </div>
----
+
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShahzadSyed&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzadSyed&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadSyed&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </div>
----
+
 
 ### 🐍 Snake Eating My Contributions
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
----
+
 
 ### 💬 Let's Connect!
 <p align="center">
