@@ -5,47 +5,35 @@
 
 I’m a Junior .NET Developer from Karachi. I work with C#, WinForms, SQL Server and Crystal Reports. I build practical systems for everyday business needs, including POS systems and ERP modules.
 
-**My Skills**
-C# / .NET
-WinForms (Telerik UI)
-SQL Server & Stored Procedures
-Crystal Reports
-JavaScript, HTML, CSS
+**🧠 Skills**
+Languages: C#, JavaScript, SQL
+Frameworks: .NET, .NET Core
+Desktop UI: WinForms (Telerik UI), Crystal Reports
+Database: SQL Server, Stored Procedures
+Other: REST APIs, Reporting, Data Management
 
-**My Projects**
-**Bakery POS** – Billing, stock, expenses and sales reports
-**Payroll System** – Employee management and salary reports
-**ERP Modules** – Yarn module, gatepass, sales contracts
+**🔨 Projects**
+Bakery POS: Billing, stock, expenses, sales reports
+Payroll System: Employee management and salary reports
+ERP Modules: Yarn module, gatepass, sales contracts
 
-**What I’m Learning**
-.NET Core
-APIs
+**📚 Currently Learning**
+.NET Core APIs
 Node.js
 Next.js
-MongoDB
-
-Feel free to check my repos or reach out if you’d like to collaborate.
-
-### 🧠 Tech Stack
-- **Languages:** C#, JavaScript, SQL  
-- **Frameworks:** .NET, .NET Core  
-- **Database:** Microsoft SQL Server  
-- **UI Tools:** Telerik UI for WinForms, Crystal Reports  
-- **Other Skills:** REST APIs, Reporting, Data Management  
+MongoDB 
 
 ### 📫 Connect with me
 - LinkedIn:  [Connect](https://linkedin.com/in/syedshahzad13)
 
 
-Thanks for stopping by! Feel free to explore my repositories — I’m always open to collaboration and feedback.
-
-
+Thanks for checking out my profile. Feel free to explore my repositories or reach out if you want to collaborate.
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=ShahzadSyed&label=Profile%20views&color=0e75b6&style=flat)
 
 
----
+
 ### 🛠️ Tech Stack
 <div class="tech-icons">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
