@@ -49,6 +49,10 @@ Thanks for checking out my profile. Feel free to explore my repositories or reac
 
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahzadSyed&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadSyed&layout=compact&theme=dark)
+
+
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShahzadSyed&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
