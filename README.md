@@ -62,9 +62,10 @@ Thanks for checking out my profile. Feel free to explore my repositories or reac
 
 
 ### 🐍 Snake Eating My Contributions
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShahzadSyed/ShahzadSyed/output/snake.svg" alt="Snake animation" />
+</p>
+
 
 
 ### 💬 Let's Connect!
