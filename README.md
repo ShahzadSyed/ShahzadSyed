@@ -43,13 +43,12 @@ I’m a Junior .NET Developer from Karachi. I work with C#, WinForms, SQL Server
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahzadSyed&show_icons=true&theme=dark&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShahzadSyed&show_icons=true&theme=dark" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=ShahzadSyed&theme=dark" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadSyed&layout=compact&theme=dark&cache_seconds=86400" width="48%" />
-</p>
+
+
 
 
 ---
