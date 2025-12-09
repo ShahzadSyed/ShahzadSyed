@@ -28,6 +28,17 @@ I’m a Junior .NET Developer from Karachi. I work with C#, WinForms, SQL Server
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShahzadSyed&show_icons=true&theme=dark" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=ShahzadSyed&theme=dark" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShahzadSyed&layout=compact&theme=dark" />
+</p>
+
+
 ## 🛠️ Tech Stack  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
