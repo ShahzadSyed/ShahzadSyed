@@ -43,27 +43,15 @@ I’m a Junior .NET Developer from Karachi. I work with C#, WinForms, SQL Server
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats-github-stats-alpha.vercel.app/api?username=ShahzadSyed&show_icons=true&theme=dark" />
+  
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShahzadSyed&show_icons=true&theme=dark" />
 <img src="https://github-readme-stats-github-stats-alpha.vercel.app/api/top-langs/?username=ShahzadSyed&layout=compact&theme=dark" />
 <img src="https://streak-stats.demolab.com?user=ShahzadSyed&theme=dark" />
 
-[https://github-readme-stats-github-stats-alpha.vercel.app/api/top-langs/?username=ShahzadSyed&layout=compact&theme=dark](https://github-readme-stats-github-stats-alpha.vercel.app/api/top-langs/?username=ShahzadSyed&layout=compact&theme=dark
-)
-
-
-
 
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-vercel-repo-one.vercel.app/api?username=ShahzadSyed&show_icons=true&theme=dark" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=ShahzadSyed&theme=dark" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-github-stats-alpha.vercel.app/api/top-langs/?username=ShahzadSyed&layout=compact&theme=dark" />
-</p>
 
 
 
