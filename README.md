@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Syed Shahzad  
-**Software Engineer | C# .NET | SQL Server | WinForms | Telerik | Crystal Reports | JavaScript | NodeJs **
+**Software Engineer | C# .NET | SQL Server | WinForms | Telerik | Crystal Reports | JavaScript | NodeJs | ReactJs **
 
 I’m a Junior .NET Developer from Karachi. I work with C#, WinForms, SQL Server and Crystal Reports. I build practical systems for everyday business needs, including POS systems and ERP modules.
 
@@ -13,13 +13,14 @@ I’m a Junior .NET Developer from Karachi. I work with C#, WinForms, SQL Server
 ## 🔨 Projects
 - Bakery POS: Billing, stock, expenses, sales reports  
 - Payroll System: Employee management and salary reports  
-- ERP Modules: Yarn module, gatepass, sales contracts  
+- ERP Modules: Yarn module, gatepass, sales contracts , Weaving Module
 
 ## 📚 Currently Learning
 - .NET Core APIs  
 - Node.js  
 - Next.js  
 - MongoDB  
+- React.js
 
 ### 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/syedshahzad13
